@@ -12,7 +12,7 @@ class Config(object):
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5918078029:AAE84fJsHoGcZkU4ReKxMrYYD3piFUoB4no")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "MdiskSearchRobot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOJIBu8KZ83Zywb4K080pMCcWtew62IjcCyK8Zt7U1s2pJQZXUlRVzS0DY-TH3Idat584UPNIyzo1oZF9316cqRO0Yeqpx-9AM8heOqW4e3maC_3XbA9HZTTEIiP6k97GZQ33jyvumzL4r2MDAjXNBdWzjQBbP1Q247IdOyxizOqWsYEaAXNuPaXwVwXnDeoU3oSBJKRs829qG1rIsLHi8SgJengMH4MGhNIxBh-MCxKgsrraZkaVbW2yvovzpdB6jeOaRxW6q_oEqpxjkTNkEowvo8aYjIP9OPflgftD_cwKpa1_r-zf0idIh_PEGwshph3b6gYy_z5kMeisF6Rie8t6i1I=")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", -1001939164440))
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", -1001567756047))
     BOT_USERNAME = os.getenv("BOT_USERNAME", "Mdisk_search_re_bot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "5791145987"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Ipapcornbot_Owner")
